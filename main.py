@@ -1,0 +1,1 @@
+print('this is will be real time sudoku solver with connecting to camera :)')
